@@ -1,5 +1,7 @@
-n=int(input("enter the value for n"))
-k=int(input("enter the value of k"))
+#n=int(input("enter the value for n"))
+#k=int(input("enter the value of k"))
+n=20
+k=4
 c=0
 def series(n,s,k,c):
     if((s>0)and(c==0)):
